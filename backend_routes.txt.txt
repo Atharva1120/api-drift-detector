@@ -1,0 +1,3 @@
+POST /api/users
+GET /api/products
+DELETE /api/item
